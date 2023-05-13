@@ -1,4 +1,7 @@
 .ssh
 credentials
 .ssh/*
-terraform*
+terrsh
+.ssh/*
+*.swp
+credentials
