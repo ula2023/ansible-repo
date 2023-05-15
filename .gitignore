@@ -2,6 +2,5 @@
 credentials
 .ssh/*
 terrsh
-.ssh/*
 *.swp
-credentials
+
